@@ -1,2 +1,3 @@
 # odin-sketch-pad
-A kind of a sketch pad via JS &amp; jQuery - The Odin Project
+This is the second project of the Web 101 track of The Odin Project.
+(hopefully...)
