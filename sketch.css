@@ -1,0 +1,20 @@
+/* CSS 3 for Sketch Pad */
+
+h1 { margin: 15px autho; }
+
+#menu {
+  text-align: center;
+}
+
+#pad {
+  margin: 20px auto;
+  width: 960px;
+  height: 480px;
+  background-color: #eee;
+  border: 1px solid #000;
+  font-size: 0;
+}
+
+.pixel {
+  margin: 0;
+}
