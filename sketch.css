@@ -1,6 +1,10 @@
 /* CSS 3 for Sketch Pad */
 
 h1 { margin: 15px autho; }
+h3 { 
+  display: inline; 
+  margin-left: 20px;
+}
 
 #menu {
   text-align: center;
